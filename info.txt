@@ -3,3 +3,4 @@ This is to demo for git fetch
 This is to demo for git pull
 this is updated by dora locally.
 This is updated by developer-2 in remote
+This is to analyze diffmerge and edited localy
